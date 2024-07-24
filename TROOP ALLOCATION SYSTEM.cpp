@@ -197,7 +197,7 @@ cout<<crt[i];
     }
 cout<< "\n\t------------------------- \n"
 <<endl;
-    string name_s = "\t1. VISHWAS KAUSHIK (9921103225)\n\t2. MANSI BAKSHI (9921103157)\n\t3. MANYA GARG (9921103162)\n\t4. SHUBH SHANKAR (9921103214)\n ";
+    string name_s = "MANYA GARG (9921103162)\n ";
 
     for (int i = 0; i<name_s.length(); i++)
     {
