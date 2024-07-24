@@ -310,7 +310,7 @@ int main()
         system("cls");
         system("color 03");
         cout<<"When a nation is engaged in a war, there are several fronts where the battles are being fought."<<endl<<" In such conditions, casualties and injuries are bound to happen."<<endl;
-        cout<<"Shortage of resources at any front is possible."<<endl<<" In such a case, if an efficienttransportation system is not employed, there can be a huge setback.";
+        cout<<"Shortage of resources at any front is possible."<<endl<<" In such a case, if an efficient transportation system is not employed, there can be a huge setback.";
         cout<<" The project Troop Reinforcement Allocation System eases this task and helps the user find the best possible route for the same."<<endl;
 
 
